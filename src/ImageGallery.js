@@ -4,6 +4,10 @@ import throttle from 'lodash-es/throttle';
 import debounce from 'lodash-es/debounce';
 import isEqual from 'react-fast-compare';
 import ResizeObserver from 'resize-observer-polyfill';
+import { Amplify } from 'aws-amplify';
+import awsExports from './aws-exports';
+Amplify.configure(awsExports);
+
 import {
   LEFT,
   RIGHT,
