@@ -8,7 +8,7 @@ Newport Product Gallery
 ### Live Demo (try it on mobile for swipe support)
 [`linxtion.com/demo/newport-product-gallery`](http://linxtion.com/demo/newport-product-gallery)
 
-![demo gif](https://github.com/deus-newport/newport-product-gallery/raw/master/static/Newport-Product-Gallery-Preview.gif)
+![demo gif](https://github.com/deus-newport/newport-product-gallery/raw/main/static/Newport-Product-Gallery-Preview.gif)
 
 Newport Product Gallery is a React component for building image galleries and carousels
 
