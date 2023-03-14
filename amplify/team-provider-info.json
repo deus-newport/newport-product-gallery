@@ -1,0 +1,23 @@
+{
+  "stage": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-newportproductgaller-stage-153000-authRole",
+      "UnauthRoleArn": "arn:aws:iam::673407005733:role/amplify-newportproductgaller-stage-153000-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::673407005733:role/amplify-newportproductgaller-stage-153000-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-newportproductgaller-stage-153000-deployment",
+      "UnauthRoleName": "amplify-newportproductgaller-stage-153000-unauthRole",
+      "StackName": "amplify-newportproductgaller-stage-153000",
+      "StackId": "arn:aws:cloudformation:eu-north-1:673407005733:stack/amplify-newportproductgaller-stage-153000/b4f28160-c274-11ed-b844-0eeb3a68a466",
+      "AmplifyAppId": "d2q8wowlg3qmmv"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2q8wowlg3qmmv",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
