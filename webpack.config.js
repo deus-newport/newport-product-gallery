@@ -40,8 +40,8 @@ module.exports = {
     }),
   ],
   devServer: {
-    host: '192.168.55.254',
-    port: 8001,
+    host: '127.0.0.1',
+    port: 3000,
     historyApiFallback: {
       rewrites: [{ from: /\//, to: '/example/index.html' }],
     },
