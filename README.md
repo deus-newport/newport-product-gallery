@@ -5,12 +5,10 @@ Newport Product Gallery
 [![Download Count](http://img.shields.io/npm/dm/newport-product-gallery.svg?style=flat)](https://www.npmjs.com/package/newport-product-gallery)
 [![Bundle size](https://badgen.net/bundlephobia/minzip/newport-product-gallery)](https://bundlephobia.com/package/newport-product-gallery)
 
-### Live Demo (try it on mobile for swipe support)
-[`linxtion.com/demo/newport-product-gallery`](http://linxtion.com/demo/newport-product-gallery)
 
 ![demo gif](https://github.com/deus-newport/newport-product-gallery/raw/main/static/Newport-Product-Gallery-Preview.gif)
 
-Newport Product Gallery is a React component for building image galleries and carousels
+Newport product images gallery with mobile and touch support.
 
 ## Features
 
@@ -20,7 +18,7 @@ Newport Product Gallery is a React component for building image galleries and ca
 * Custom rendered slides
 * RTL support
 * Responsive design
-* Tons of customization options (see props below)
+* Customization options (see props below)
 
 ## Getting started
 
