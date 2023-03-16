@@ -1,6 +1,6 @@
 {
   "name": "newport-product-gallery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Newport product images gallery with mobile and touch support",
   "main": "./build/image-gallery.js",
   "scripts": {
