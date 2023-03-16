@@ -27,6 +27,11 @@ Newport Product Gallery requires **React 16.0.0 or later.**
 ```
 npm install newport-product-gallery
 ```
+To avoid React version conflicts add `--legacy-peer-deps`
+
+```
+npm install newport-product-gallery --legacy-peer-deps
+```
 
 ### Style import (with webpack)
 ```
@@ -246,7 +251,7 @@ yarn install
 yarn start
 ```
 
-Then open [`localhost:8001`](http://localhost:8001) in a browser.
+Then open [`localhost:3030`](http://localhost:3030) in a browser.
 
 # License
 
